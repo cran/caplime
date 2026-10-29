@@ -1,0 +1,12 @@
+citHeader("To cite the caplime package in publications, use:")
+
+bibentry(
+  bibtype = "Manual",
+  title = "caplime: Conic Adaptive Piecewise LIME",
+  author = c(
+    person(given = "Nurgül", family = "Gökgöz Küçüksakallı"),
+    person(given = "Vilda", family = "Purutçuoğlu")
+  ),
+  year = "2026",
+  note = "R package version 0.1.0"
+)

@@ -1,0 +1,29 @@
+Package: caplime
+Type: Package
+Title: Conic Adaptive Piecewise Local Explanations
+Version: 0.1.0
+Authors@R: c(
+    person("Nurgül", "Gökgöz Küçüksakallı",
+           email = "nurgul.gokgoz@gmail.com",
+           role = c("aut", "cre"),
+           comment = c(affiliation = "Department of Biomedical Engineering, Middle East Technical University")),
+    person("Vilda", "Purutçuoğlu",
+           role = c("aut"),
+           comment = c(affiliation = "Department of Statistics, Middle East Technical University")))
+Description: Provides educational, base-R implementations of a ridge-penalized
+    piecewise hinge regression model and local surrogate explanations for
+    numerical prediction functions. Includes simplified variants inspired by
+    local interpretable model-agnostic explanations (LIME) and a simplified
+    bandwidth selection variant (OPTILIME), plus exploratory stability diagnostics.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+NeedsCompilation: no
+Packaged: 2026-10-18 00:19:59 UTC; vilda
+Author: Nurgül Gökgöz Küçüksakallı [aut, cre] (affiliation: Department of
+    Biomedical Engineering, Middle East Technical University),
+  Vilda Purutçuoğlu [aut] (affiliation: Department of Statistics, Middle
+    East Technical University)
+Maintainer: Nurgül Gökgöz Küçüksakallı <nurgul.gokgoz@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-10-29 19:20:14 UTC

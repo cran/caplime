@@ -1,0 +1,14 @@
+da274a43efe7dc127d26aa35fa4d3d20 *DESCRIPTION
+129760895558cdce275b1de02f338387 *LICENSE
+1c0296b4750d1d8652dc4963ceb917f4 *NAMESPACE
+c18196692d766abf729e14590b7f25f0 *R/caplime.R
+2bda9a8ed6b0e95be0673ffb753cc6d7 *R/predict.R
+0ef15cc690b9ee1bde85007b8ece2632 *README.md
+d8a85dc913b5233d9ef0c6c5a3e5c02c *inst/CITATION
+7af072104a5c512ac1ab0c0bfa280ccf *man/CAP_LIME.Rd
+ea381f5d2c61b31bc02b99b9fbac2faf *man/CAP_stability.Rd
+84b04bdeacdc0e57fbceda5aa0c3a1b6 *man/fit_CAP_model.Rd
+d4fbb83a6f021674fe1755b8a2c5acda *man/plot_CAP_LIME.Rd
+14b358d5f8775ac512b433d3483c9203 *man/predict_CAP_model.Rd
+3ac59b0c5dfd55aa9fb69a6b4fb9ca56 *tests/inputs.R
+c2e9088b45f35b58c2389c40712584fd *tests/smoke.R
